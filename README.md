@@ -1,1 +1,1 @@
-# triggu-T-Rex
+# T-rex-Game-VR
